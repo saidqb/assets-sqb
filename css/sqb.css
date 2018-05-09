@@ -1,0 +1,56 @@
+/* =====================
+SQB CSS FRAMEWORK
+===================== */
+
+/* pd:padding */
+.pd_0{padding:0;}
+.pdtb_15{padding-top:15px; padding-bottom:15px;}
+.pdlr_15{padding-left:15px; padding-right:15px;}
+.pdlr_7{padding-left:7px; padding-right:7px;}
+.pdtb_20{padding-top:20px; padding-bottom:20px;}
+.pdlr_20{padding-left:20px; padding-right:20px;}
+
+/* mg:margin */
+.mgtb_15{margin-top: 15px; margin-bottom: 15px;}
+.mglr_15{margin-left: 15px; margin-right: 15px;}
+.mgtb_20{margin-top: 20px; margin-bottom: 20px;}
+.mglr_20{margin-left: 20px; margin-right: 20px;}
+
+.mgt_5{margin-top: 5px}
+.mgt_15{margin-top: 15px}
+.mgt_20{margin-top: 20px}
+.mgt_30{margin-top: 30px}
+.mgt_40{margin-top: 40px}
+.mgt_60{margin-top: 60px}
+.mgt_100{margin-top: 100px}
+
+.mgb_5{margin-bottom: 5px}
+.mgb_15{margin-bottom: 15px}
+.mgb_20{margin-bottom: 20px}
+.mgb_30{margin-bottom: 30px}
+.mgb_40{margin-bottom: 40px}
+.mgb_60{margin-bottom: 60px}
+.mgb_100{margin-bottom: 100px}
+
+/* ft:font*/
+.ftw_b{font-weight: bold;}
+.fts_14{font-size: 14px}
+.fts_16{font-size: 16px;}
+.fts_18{font-size: 18px;}
+.fts_20{font-size: 20px;}
+.fts_22{font-size: 22px;}
+.fts_40{font-size: 40px}
+
+.lh_160{line-height: 160%}
+
+/* cr:cursor*/
+.cr_pr{cursor: pointer;}
+
+/* ts:transition */
+.ts_all_a a{transition: all .5s ease;}
+.ts_all_a a:hover{transition: all .5s ease;}
+.ts_all{transition: all .2s ease;}
+
+/* clear float */
+.clearfix:after{ clear: both;}
+.clearfix:before,.clearfix:after{display: table; content: " ";}
