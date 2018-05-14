@@ -1,0 +1,30 @@
+/* 
+Css Responsive Theme Build
+Author	: Saidqb (Muh Nurul Khomsa)
+Email	: saidqb@gmail.com
+Website	: saidqb.com
+
+*/
+
+/* Maks */
+
+@media all and (max-width: 992px) {
+
+}
+
+@media all and (max-width: 768px) {
+
+}
+
+@media all and (max-width: 650px) {
+
+}
+
+@media all and (max-width: 500px) {
+
+}
+
+/* Minim */
+@media all and (min-width: 768px) {
+	
+}
